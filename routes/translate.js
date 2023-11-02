@@ -20,9 +20,9 @@ const lang = {
 };
 
 // Initialize Bhashini
-const userID = "BASHINI_USER_ID";
-const APIKey = "BASHINI_API_KEY";
-const InferenceAPIKey = "BASHINI_INFERENCE_API_KEY";
+const userID = "48143844ab7146b3989826a445d3708f";
+const APIKey = "069940ac8c-7f11-42bc-824d-da255ac88831";
+const InferenceAPIKey = "nyUu5FxaZ31j88aZVCDaVpUqDEvvvfh-BfwPjw60fTFxrlKPaobSs4M49nMUFCGV";
 
 bhashini.auth(userID, APIKey, InferenceAPIKey);
 
