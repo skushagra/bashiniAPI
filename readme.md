@@ -4,6 +4,11 @@
 
 This API allows users to translate text from one Indian language to another using the Bashini Neural Machine Translation and open-source Bashini API's.
 
+
+## API URL
+
+A live version of this API is hosted on [https://bashiniapi-production.up.railway.app/](https://bashiniapi-production.up.railway.app/)
+
 ## Endpoints
 
 - Welcome message: `/`
